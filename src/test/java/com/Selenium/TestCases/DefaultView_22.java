@@ -65,28 +65,7 @@ public class DefaultView_22 extends BrowserUtilityMethods{
 			System.out.println("Success");
 		}
 			
-		UserLoggedOut();
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		UserLoggedOut();
-		
-
-	}
-
-	private static void LeadLogin() {
-		// TODO Auto-generated method stub
-		
-	}
+		UserLoggedOut();	
+	}	
 
 }
